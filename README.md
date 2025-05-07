@@ -31,10 +31,6 @@ This is a Telegram bot for managing promotional campaigns with promo code submis
 - `/start` - Start the bot and register as a user
 - `/admin` - Access the admin panel (requires login)
 
-## Admin Credentials
-
-- Username: sai_jonov
-- Password: said10102003..
 
 ## Database Structure
 
